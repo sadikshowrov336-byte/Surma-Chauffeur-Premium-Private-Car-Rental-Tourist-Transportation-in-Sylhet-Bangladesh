@@ -1,0 +1,6 @@
+{
+  "name": "Surma Chauffeur | Sylhet Tourist Private Car Rental",
+  "description": "Premium private car and chauffeur service for tourists exploring Sylhet, Bangladesh. Book AC sedans, Noah microbuses, and 4x4s for Sada Pathor, Ratargul, Jaflong, Bisnakandi, and Sreemangal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
